@@ -10,9 +10,13 @@ I build tools for e-commerce content creation and explore practical AI workflows
 
 A visual workspace for connecting product assets, copy, images, audio, and video in one canvas.
 
-The public edition is being prepared. A verified repository and demo will be linked here when available.
+[Explore Commerce Canvas →](https://github.com/nieweihua1468-debug/ecommerce-infinite-canvas)
 
-公开版正在整理中，完成验证后将在这里补充代码仓库、演示和使用文档。
+The full application is now public, including the canvas, admin dashboard, account controls, and configurable AI adapters. Bring your own model credentials and media.
+
+完整应用源码已公开：无限画布、管理后台、账号权限与 AI 接口适配。私人配置和品牌素材已移除，附本地运行文档与发布检查记录。模型生成需自行配置凭证；目前不提供在线托管演示。
+
+[使用文档](https://github.com/nieweihua1468-debug/ecommerce-infinite-canvas#readme) · [发布检查](https://github.com/nieweihua1468-debug/ecommerce-infinite-canvas/blob/main/docs/RELEASE_CHECKS.md) · [反馈问题](https://github.com/nieweihua1468-debug/ecommerce-infinite-canvas/issues)
 
 ## Areas of interest
 
